@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the University of Buenos Aires (FIUBA), interested in software engineering, networking, and data automation.
 
-I previously worked as a Data Science Intern at Linde, where I worked on data automation and process optimization.
+I have experience as a Data Science Intern at Linde, where I worked on data automation and process optimization.
 
 ## Selected projects
 
